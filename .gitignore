@@ -1,0 +1,7 @@
+# Runtime caches / temp artifacts (never commit)
+.tools/
+__pycache__/
+*.pyc
+*.part*
+_tmp*/
+detail.json
